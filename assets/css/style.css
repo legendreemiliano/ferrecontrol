@@ -1,0 +1,93 @@
+/* FerreControl - estilos. Paleta: verde oscuro (negocio), naranja (acciones), grises y blanco. */
+:root {
+  --fc-green: #1f4d3a;
+  --fc-green-dark: #163a2b;
+  --fc-green-soft: #e6efe9;
+  --fc-orange: #e8731a;
+  --fc-orange-dark: #c95f0e;
+  --fc-bg: #f3f5f4;
+  --fc-text: #2f3a36;
+  --bs-primary: #1f4d3a;
+  --bs-primary-rgb: 31, 77, 58;
+  --bs-link-color: #1f4d3a;
+  --bs-link-hover-color: #163a2b;
+}
+body { background: var(--fc-bg); color: var(--fc-text); font-size: .95rem; }
+
+.btn-primary {
+  --bs-btn-bg: var(--fc-green); --bs-btn-border-color: var(--fc-green);
+  --bs-btn-hover-bg: var(--fc-green-dark); --bs-btn-hover-border-color: var(--fc-green-dark);
+  --bs-btn-active-bg: var(--fc-green-dark); --bs-btn-active-border-color: var(--fc-green-dark);
+  --bs-btn-disabled-bg: var(--fc-green); --bs-btn-disabled-border-color: var(--fc-green);
+}
+.btn-outline-primary {
+  --bs-btn-color: var(--fc-green); --bs-btn-border-color: var(--fc-green);
+  --bs-btn-hover-bg: var(--fc-green); --bs-btn-hover-border-color: var(--fc-green);
+  --bs-btn-active-bg: var(--fc-green); --bs-btn-active-border-color: var(--fc-green);
+}
+.btn-accent {
+  --bs-btn-color: #fff; --bs-btn-bg: var(--fc-orange); --bs-btn-border-color: var(--fc-orange);
+  --bs-btn-hover-color: #fff; --bs-btn-hover-bg: var(--fc-orange-dark); --bs-btn-hover-border-color: var(--fc-orange-dark);
+  --bs-btn-active-bg: var(--fc-orange-dark); --bs-btn-active-border-color: var(--fc-orange-dark);
+}
+.form-control:focus, .form-select:focus { border-color: var(--fc-green); box-shadow: 0 0 0 .2rem rgba(31, 77, 58, .18); }
+.page-item.active .page-link { background: var(--fc-green); border-color: var(--fc-green); }
+.page-link { color: var(--fc-green); }
+
+/* ---- estructura ---- */
+.fc-layout { display: flex; min-height: 100vh; }
+.fc-sidebar { width: 250px; flex: 0 0 250px; background: var(--fc-green); color: #dfe9e3; position: sticky; top: 0; height: 100vh; overflow-y: auto; }
+.fc-offcanvas { background: var(--fc-green); color: #fff; width: 270px; }
+.fc-brand { display: block; padding: 1.1rem 1.25rem; font-size: 1.3rem; font-weight: 700; color: #fff; text-decoration: none; border-bottom: 1px solid rgba(255,255,255,.12); }
+.fc-brand i { color: var(--fc-orange); }
+.fc-menu { padding: .5rem 0 1.5rem; }
+.fc-menu-title { padding: .9rem 1.25rem .3rem; font-size: .7rem; letter-spacing: .08em; text-transform: uppercase; color: #9fbcad; }
+.fc-menu-link { display: flex; align-items: center; gap: .65rem; padding: .5rem 1.25rem; color: #dfe9e3; text-decoration: none; border-left: 3px solid transparent; }
+.fc-menu-link:hover { background: rgba(255,255,255,.07); color: #fff; }
+.fc-menu-link.active { background: rgba(255,255,255,.12); color: #fff; border-left-color: var(--fc-orange); font-weight: 600; }
+.fc-content { flex: 1; min-width: 0; display: flex; flex-direction: column; }
+.fc-topbar { display: flex; align-items: center; padding: .6rem 1.25rem; background: #fff; border-bottom: 1px solid #dde3e0; position: sticky; top: 0; z-index: 100; }
+.fc-role { background: var(--fc-green-soft); color: var(--fc-green); font-weight: 600; }
+.fc-main { padding: 1.5rem 1.25rem; flex: 1; }
+.fc-footer { padding: .8rem 1.25rem; font-size: .78rem; color: #7b8883; border-top: 1px solid #dde3e0; background: #fff; }
+@media (min-width: 992px) { .fc-main { padding: 1.75rem 2rem; } }
+
+/* ---- componentes ---- */
+.fc-page-head { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: .75rem; margin-bottom: 1.25rem; }
+.fc-page-head h1 { font-size: 1.5rem; font-weight: 700; margin: 0; color: var(--fc-green); }
+.fc-card { background: #fff; border: 1px solid #e0e6e3; border-radius: .6rem; box-shadow: 0 1px 2px rgba(0,0,0,.03); }
+.fc-card > .fc-card-h { padding: .8rem 1rem; border-bottom: 1px solid #edf0ee; font-weight: 600; }
+.fc-card > .fc-card-b { padding: 1rem; }
+.fc-stat { padding: 1rem 1.1rem; background: #fff; border: 1px solid #e0e6e3; border-left: 4px solid var(--fc-green); border-radius: .6rem; height: 100%; }
+.fc-stat.accent { border-left-color: var(--fc-orange); }
+.fc-stat.danger { border-left-color: #c0392b; }
+.fc-stat .lbl { font-size: .78rem; color: #6a7872; text-transform: uppercase; letter-spacing: .04em; }
+.fc-stat .val { font-size: 1.45rem; font-weight: 700; line-height: 1.2; }
+.fc-stat .sub { font-size: .75rem; color: #8a9690; }
+.fc-table th { white-space: nowrap; font-size: .8rem; text-transform: uppercase; letter-spacing: .03em; color: #5d6b65; background: #f7f9f8; }
+.fc-table td { vertical-align: middle; }
+.fc-flash { margin-bottom: 1rem; }
+.fc-note { font-size: .82rem; color: #6a7872; background: #fff8ef; border-left: 3px solid var(--fc-orange); padding: .6rem .9rem; border-radius: .3rem; }
+.required::after { content: " *"; color: #c0392b; }
+.num { text-align: right; font-variant-numeric: tabular-nums; }
+.chart-box { position: relative; height: 280px; }
+
+/* ---- login ---- */
+.fc-login-wrap { min-height: 100vh; display: flex; align-items: center; justify-content: center; background: linear-gradient(135deg, var(--fc-green) 0%, #2f6b52 100%); padding: 1rem; }
+.fc-login-card { width: 100%; max-width: 400px; background: #fff; border-radius: .8rem; padding: 2rem; box-shadow: 0 10px 30px rgba(0,0,0,.25); }
+.fc-login-card h1 { color: var(--fc-green); font-weight: 800; }
+.fc-login-card h1 i { color: var(--fc-orange); }
+
+/* ---- punto de venta ---- */
+#pos-results { position: absolute; z-index: 20; width: 100%; max-height: 320px; overflow-y: auto; }
+.pos-total { font-size: 2rem; font-weight: 800; color: var(--fc-green); }
+
+/* ---- comprobante e impresión ---- */
+.receipt { max-width: 720px; margin: 0 auto; background: #fff; border: 1px solid #ccc; padding: 1.5rem; }
+@media print {
+  .no-print, .fc-sidebar, .fc-topbar, .fc-footer, .btn, .pagination, form.filters { display: none !important; }
+  body { background: #fff; }
+  .fc-main { padding: 0; }
+  .fc-card, .receipt { border: none; box-shadow: none; }
+  a { text-decoration: none; color: inherit; }
+}

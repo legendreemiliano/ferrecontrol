@@ -1,0 +1,1095 @@
+{
+ "purchases": [
+  {
+   "day": -45,
+   "supplier": 1,
+   "items": [
+    {
+     "code": "HM-001",
+     "qty": 10,
+     "cost": 5000
+    },
+    {
+     "code": "HM-002",
+     "qty": 20,
+     "cost": 2200
+    },
+    {
+     "code": "HM-003",
+     "qty": 20,
+     "cost": 2100
+    },
+    {
+     "code": "HM-004",
+     "qty": 12,
+     "cost": 6800
+    },
+    {
+     "code": "HM-005",
+     "qty": 8,
+     "cost": 9500
+    },
+    {
+     "code": "HM-006",
+     "qty": 15,
+     "cost": 4300
+    },
+    {
+     "code": "HM-007",
+     "qty": 8,
+     "cost": 7200
+    }
+   ],
+   "discount": 0,
+   "extra": 0,
+   "paid": true,
+   "method": 2,
+   "ref": "Remito 0001-00004512"
+  },
+  {
+   "day": -42,
+   "supplier": 5,
+   "items": [
+    {
+     "code": "TF-001",
+     "qty": 30,
+     "cost": 6200
+    },
+    {
+     "code": "TF-002",
+     "qty": 40,
+     "cost": 3100
+    },
+    {
+     "code": "TF-003",
+     "qty": 30,
+     "cost": 2800
+    },
+    {
+     "code": "TF-004",
+     "qty": 300,
+     "cost": 350
+    },
+    {
+     "code": "TF-005",
+     "qty": 25,
+     "cost": 1700
+    }
+   ],
+   "discount": 0,
+   "extra": 3500,
+   "paid": true,
+   "method": 2,
+   "ref": "Remito 0003-00000871"
+  },
+  {
+   "day": -40,
+   "supplier": 2,
+   "items": [
+    {
+     "code": "PI-001",
+     "qty": 8,
+     "cost": 98000
+    },
+    {
+     "code": "PI-002",
+     "qty": 15,
+     "cost": 24500
+    },
+    {
+     "code": "PI-003",
+     "qty": 14,
+     "cost": 12800
+    },
+    {
+     "code": "PI-004",
+     "qty": 25,
+     "cost": 2600
+    },
+    {
+     "code": "PI-005",
+     "qty": 15,
+     "cost": 5400
+    }
+   ],
+   "discount": 5000,
+   "extra": 0,
+   "paid": false,
+   "method": null,
+   "ref": "Factura 0002-00001205"
+  },
+  {
+   "day": -38,
+   "supplier": 3,
+   "items": [
+    {
+     "code": "CO-001",
+     "qty": 60,
+     "cost": 11500
+    },
+    {
+     "code": "CO-002",
+     "qty": 40,
+     "cost": 6200
+    },
+    {
+     "code": "CO-003",
+     "qty": 50,
+     "cost": 2300
+    },
+    {
+     "code": "PL-001",
+     "qty": 12,
+     "cost": 18500
+    },
+    {
+     "code": "PL-002",
+     "qty": 80,
+     "cost": 700
+    },
+    {
+     "code": "PL-003",
+     "qty": 12,
+     "cost": 8900
+    }
+   ],
+   "discount": 0,
+   "extra": 0,
+   "paid": true,
+   "method": 1,
+   "ref": "Remito 0005-00000333"
+  },
+  {
+   "day": -36,
+   "supplier": 4,
+   "items": [
+    {
+     "code": "EL-001",
+     "qty": 5,
+     "cost": 78000
+    },
+    {
+     "code": "EL-002",
+     "qty": 30,
+     "cost": 2900
+    },
+    {
+     "code": "EL-003",
+     "qty": 30,
+     "cost": 3600
+    },
+    {
+     "code": "EL-004",
+     "qty": 80,
+     "cost": 1900
+    },
+    {
+     "code": "EP-001",
+     "qty": 30,
+     "cost": 3200
+    },
+    {
+     "code": "EP-002",
+     "qty": 12,
+     "cost": 7800
+    },
+    {
+     "code": "EP-003",
+     "qty": 20,
+     "cost": 2900
+    }
+   ],
+   "discount": 0,
+   "extra": 0,
+   "paid": true,
+   "method": 2,
+   "ref": "Remito 0004-00002098"
+  },
+  {
+   "day": -34,
+   "supplier": 1,
+   "items": [
+    {
+     "code": "HE-001",
+     "qty": 5,
+     "cost": 68000
+    },
+    {
+     "code": "HE-002",
+     "qty": 4,
+     "cost": 82000
+    },
+    {
+     "code": "HE-003",
+     "qty": 20,
+     "cost": 3900
+    },
+    {
+     "code": "CE-001",
+     "qty": 15,
+     "cost": 6900
+    },
+    {
+     "code": "CE-002",
+     "qty": 8,
+     "cost": 21500
+    }
+   ],
+   "discount": 0,
+   "extra": 0,
+   "paid": true,
+   "method": 2,
+   "ref": "Remito 0001-00004577"
+  },
+  {
+   "day": -25,
+   "supplier": 1,
+   "items": [
+    {
+     "code": "HM-001",
+     "qty": 10,
+     "cost": 6000
+    }
+   ],
+   "discount": 0,
+   "extra": 0,
+   "paid": true,
+   "method": 2,
+   "ref": "Remito 0001-00004631"
+  },
+  {
+   "day": -12,
+   "supplier": 5,
+   "items": [
+    {
+     "code": "TF-002",
+     "qty": 20,
+     "cost": 3400
+    }
+   ],
+   "discount": 0,
+   "extra": 0,
+   "paid": true,
+   "method": 1,
+   "ref": "Remito 0003-00000902"
+  }
+ ],
+ "sales": [
+  {
+   "day": -33,
+   "time": "12:10",
+   "seller": 0,
+   "customer": "",
+   "items": [
+    {
+     "code": "HM-002",
+     "qty": 2
+    },
+    {
+     "code": "HM-003",
+     "qty": 1
+    },
+    {
+     "code": "TF-003",
+     "qty": 1
+    }
+   ],
+   "disc": 0,
+   "pay": [
+    "full",
+    1
+   ]
+  },
+  {
+   "day": -32,
+   "time": "09:40",
+   "seller": 1,
+   "customer": "Constructora Pérez",
+   "items": [
+    {
+     "code": "CO-001",
+     "qty": 10
+    },
+    {
+     "code": "CO-003",
+     "qty": 10
+    }
+   ],
+   "disc": 0,
+   "pay": [
+    "full",
+    2
+   ]
+  },
+  {
+   "day": -31,
+   "time": "17:05",
+   "seller": 0,
+   "customer": "",
+   "items": [
+    {
+     "code": "PI-002",
+     "qty": 2
+    },
+    {
+     "code": "PI-004",
+     "qty": 2
+    },
+    {
+     "code": "PI-005",
+     "qty": 1
+    }
+   ],
+   "disc": 0,
+   "pay": [
+    "full",
+    3
+   ]
+  },
+  {
+   "day": -30,
+   "time": "10:20",
+   "seller": 1,
+   "customer": "",
+   "items": [
+    {
+     "code": "TF-001",
+     "qty": 3
+    },
+    {
+     "code": "TF-004",
+     "qty": 20
+    },
+    {
+     "code": "TF-003",
+     "qty": 2
+    }
+   ],
+   "disc": 0,
+   "pay": [
+    "full",
+    1
+   ]
+  },
+  {
+   "day": -29,
+   "time": "11:15",
+   "seller": 0,
+   "customer": "",
+   "items": [
+    {
+     "code": "EL-002",
+     "qty": 4
+    },
+    {
+     "code": "EL-003",
+     "qty": 4
+    },
+    {
+     "code": "EL-004",
+     "qty": 10
+    },
+    {
+     "code": "EL-001",
+     "qty": 1
+    }
+   ],
+   "disc": 0,
+   "pay": [
+    "full",
+    4
+   ]
+  },
+  {
+   "day": -28,
+   "time": "16:30",
+   "seller": 1,
+   "customer": "",
+   "items": [
+    {
+     "code": "HE-001",
+     "qty": 1
+    },
+    {
+     "code": "HE-003",
+     "qty": 2
+    }
+   ],
+   "disc": 0,
+   "pay": [
+    "full",
+    1
+   ]
+  },
+  {
+   "day": -27,
+   "time": "09:55",
+   "seller": 0,
+   "customer": "Taller Mecánico Ruiz",
+   "items": [
+    {
+     "code": "EP-001",
+     "qty": 6
+    },
+    {
+     "code": "EP-002",
+     "qty": 3
+    },
+    {
+     "code": "EP-003",
+     "qty": 3
+    }
+   ],
+   "disc": 5,
+   "pay": [
+    "full",
+    2
+   ]
+  },
+  {
+   "day": -26,
+   "time": "13:00",
+   "seller": 1,
+   "customer": "",
+   "items": [
+    {
+     "code": "PL-001",
+     "qty": 2
+    },
+    {
+     "code": "PL-002",
+     "qty": 6
+    },
+    {
+     "code": "PL-003",
+     "qty": 2
+    }
+   ],
+   "disc": 0,
+   "pay": [
+    "full",
+    1
+   ]
+  },
+  {
+   "day": -24,
+   "time": "10:45",
+   "seller": 0,
+   "customer": "Obra Calle 25",
+   "items": [
+    {
+     "code": "CO-001",
+     "qty": 15
+    },
+    {
+     "code": "CO-002",
+     "qty": 5
+    },
+    {
+     "code": "CO-003",
+     "qty": 10
+    }
+   ],
+   "disc": 0,
+   "pay": [
+    "partial",
+    2,
+    100000
+   ]
+  },
+  {
+   "day": -22,
+   "time": "18:10",
+   "seller": 1,
+   "customer": "",
+   "items": [
+    {
+     "code": "PI-001",
+     "qty": 2
+    },
+    {
+     "code": "PI-003",
+     "qty": 3
+    }
+   ],
+   "disc": 0,
+   "pay": [
+    "full",
+    3
+   ]
+  },
+  {
+   "day": -20,
+   "time": "12:35",
+   "seller": 0,
+   "customer": "",
+   "items": [
+    {
+     "code": "HM-001",
+     "qty": 3
+    },
+    {
+     "code": "HM-004",
+     "qty": 2
+    },
+    {
+     "code": "HM-005",
+     "qty": 1
+    }
+   ],
+   "disc": 0,
+   "pay": [
+    "full",
+    1
+   ]
+  },
+  {
+   "day": -19,
+   "time": "09:30",
+   "seller": 1,
+   "customer": "",
+   "items": [
+    {
+     "code": "TF-001",
+     "qty": 6
+    },
+    {
+     "code": "TF-002",
+     "qty": 10
+    },
+    {
+     "code": "TF-005",
+     "qty": 4
+    }
+   ],
+   "disc": 0,
+   "pay": [
+    "full",
+    1
+   ]
+  },
+  {
+   "day": -17,
+   "time": "15:20",
+   "seller": 0,
+   "customer": "",
+   "items": [
+    {
+     "code": "CE-001",
+     "qty": 4
+    },
+    {
+     "code": "CE-002",
+     "qty": 2
+    }
+   ],
+   "disc": 5,
+   "pay": [
+    "full",
+    4
+   ]
+  },
+  {
+   "day": -16,
+   "time": "11:00",
+   "seller": 1,
+   "customer": "",
+   "items": [
+    {
+     "code": "EL-004",
+     "qty": 20
+    },
+    {
+     "code": "EL-002",
+     "qty": 6
+    }
+   ],
+   "disc": 0,
+   "pay": [
+    "full",
+    1
+   ]
+  },
+  {
+   "day": -14,
+   "time": "17:45",
+   "seller": 0,
+   "customer": "",
+   "items": [
+    {
+     "code": "HM-006",
+     "qty": 4
+    },
+    {
+     "code": "HM-007",
+     "qty": 2
+    },
+    {
+     "code": "HM-002",
+     "qty": 3
+    }
+   ],
+   "disc": 0,
+   "pay": [
+    "full",
+    3
+   ]
+  },
+  {
+   "day": -13,
+   "time": "10:10",
+   "seller": 1,
+   "customer": "",
+   "items": [
+    {
+     "code": "PI-002",
+     "qty": 4
+    },
+    {
+     "code": "PI-004",
+     "qty": 6
+    },
+    {
+     "code": "PI-005",
+     "qty": 3
+    },
+    {
+     "code": "PI-003",
+     "qty": 2
+    }
+   ],
+   "disc": 0,
+   "pay": [
+    "full",
+    1
+   ]
+  },
+  {
+   "day": -11,
+   "time": "09:25",
+   "seller": 0,
+   "customer": "Constructora Pérez",
+   "items": [
+    {
+     "code": "CO-001",
+     "qty": 12
+    },
+    {
+     "code": "PL-001",
+     "qty": 3
+    }
+   ],
+   "disc": 0,
+   "pay": [
+    "full",
+    2
+   ]
+  },
+  {
+   "day": -10,
+   "time": "14:15",
+   "seller": 1,
+   "customer": "",
+   "items": [
+    {
+     "code": "TF-001",
+     "qty": 5
+    },
+    {
+     "code": "TF-004",
+     "qty": 40
+    }
+   ],
+   "disc": 0,
+   "pay": [
+    "full",
+    1
+   ]
+  },
+  {
+   "day": -9,
+   "time": "16:00",
+   "seller": 0,
+   "customer": "",
+   "items": [
+    {
+     "code": "HM-001",
+     "qty": 2
+    },
+    {
+     "code": "HE-002",
+     "qty": 1
+    }
+   ],
+   "disc": 0,
+   "pay": [
+    "full",
+    5
+   ]
+  },
+  {
+   "day": -8,
+   "time": "10:50",
+   "seller": 1,
+   "customer": "",
+   "items": [
+    {
+     "code": "EP-001",
+     "qty": 10
+    },
+    {
+     "code": "EP-002",
+     "qty": 4
+    }
+   ],
+   "disc": 0,
+   "pay": [
+    "full",
+    1
+   ]
+  },
+  {
+   "day": -7,
+   "time": "12:20",
+   "seller": 0,
+   "customer": "",
+   "items": [
+    {
+     "code": "TF-001",
+     "qty": 4
+    },
+    {
+     "code": "TF-003",
+     "qty": 6
+    },
+    {
+     "code": "TF-005",
+     "qty": 3
+    }
+   ],
+   "disc": 0,
+   "pay": [
+    "full",
+    1
+   ]
+  },
+  {
+   "day": -6,
+   "time": "18:00",
+   "seller": 1,
+   "customer": "",
+   "items": [
+    {
+     "code": "PI-001",
+     "qty": 3
+    },
+    {
+     "code": "PI-002",
+     "qty": 3
+    }
+   ],
+   "disc": 0,
+   "pay": [
+    "full",
+    2
+   ]
+  },
+  {
+   "day": -5,
+   "time": "11:40",
+   "seller": 0,
+   "customer": "",
+   "items": [
+    {
+     "code": "CO-003",
+     "qty": 15
+    },
+    {
+     "code": "CO-002",
+     "qty": 8
+    }
+   ],
+   "disc": 0,
+   "pay": [
+    "full",
+    1
+   ]
+  },
+  {
+   "day": -4,
+   "time": "15:10",
+   "seller": 1,
+   "customer": "",
+   "items": [
+    {
+     "code": "EL-001",
+     "qty": 2
+    },
+    {
+     "code": "EL-003",
+     "qty": 6
+    }
+   ],
+   "disc": 0,
+   "pay": [
+    "full",
+    3
+   ]
+  },
+  {
+   "day": -3,
+   "time": "10:05",
+   "seller": 0,
+   "customer": "",
+   "items": [
+    {
+     "code": "HM-001",
+     "qty": 2
+    },
+    {
+     "code": "HM-003",
+     "qty": 4
+    }
+   ],
+   "disc": 0,
+   "pay": [
+    "full",
+    1
+   ]
+  },
+  {
+   "day": -2,
+   "time": "13:30",
+   "seller": 1,
+   "customer": "",
+   "items": [
+    {
+     "code": "PL-003",
+     "qty": 3
+    },
+    {
+     "code": "PL-002",
+     "qty": 10
+    }
+   ],
+   "disc": 0,
+   "pay": [
+    "full",
+    1
+   ]
+  },
+  {
+   "day": -2,
+   "time": "17:25",
+   "seller": 0,
+   "customer": "Ferretería La Esquina (cuenta corriente)",
+   "items": [
+    {
+     "code": "TF-004",
+     "qty": 30
+    },
+    {
+     "code": "TF-002",
+     "qty": 5
+    }
+   ],
+   "disc": 0,
+   "pay": [
+    "none"
+   ]
+  },
+  {
+   "day": -1,
+   "time": "09:15",
+   "seller": 1,
+   "customer": "",
+   "items": [
+    {
+     "code": "HE-003",
+     "qty": 4
+    },
+    {
+     "code": "CE-001",
+     "qty": 3
+    }
+   ],
+   "disc": 0,
+   "pay": [
+    "full",
+    1
+   ]
+  },
+  {
+   "day": 0,
+   "time": "08:30",
+   "seller": 0,
+   "customer": "",
+   "items": [
+    {
+     "code": "PI-004",
+     "qty": 3
+    },
+    {
+     "code": "HM-006",
+     "qty": 2
+    }
+   ],
+   "disc": 0,
+   "pay": [
+    "full",
+    1
+   ]
+  }
+ ],
+ "later_payments": [
+  {
+   "sale": 8,
+   "day": -15,
+   "amount": 50000,
+   "method": 1
+  },
+  {
+   "sale": 8,
+   "day": -6,
+   "amount": 50000,
+   "method": 2
+  }
+ ],
+ "returns": [
+  {
+   "sale": 10,
+   "day": -18,
+   "items": [
+    {
+     "code": "HM-004",
+     "qty": 1
+    }
+   ],
+   "restock": true,
+   "reason": "Cambio: el cliente compró una unidad de más",
+   "method": 1
+  },
+  {
+   "sale": 15,
+   "day": -12,
+   "items": [
+    {
+     "code": "PI-004",
+     "qty": 1
+    }
+   ],
+   "restock": false,
+   "reason": "Pincel con cerdas defectuosas (no reingresa al stock)",
+   "method": 1
+  }
+ ],
+ "voids": [
+  {
+   "sale": 24,
+   "day": -2,
+   "reason": "Error de carga: se facturó al cliente equivocado",
+   "method": 1
+  }
+ ],
+ "expenses": [
+  {
+   "day": -44,
+   "concept": "Alquiler del local - mes anterior",
+   "category": "Alquiler del local",
+   "amount": 450000,
+   "status": "pagado",
+   "method": 2,
+   "ref": "Recibo 0021"
+  },
+  {
+   "day": -14,
+   "concept": "Alquiler del local - mes actual",
+   "category": "Alquiler del local",
+   "amount": 450000,
+   "status": "pagado",
+   "method": 2,
+   "ref": "Recibo 0034"
+  },
+  {
+   "day": -43,
+   "concept": "Internet y telefonía",
+   "category": "Internet",
+   "amount": 28000,
+   "status": "pagado",
+   "method": 2,
+   "ref": "Factura A-5521"
+  },
+  {
+   "day": -13,
+   "concept": "Internet y telefonía",
+   "category": "Internet",
+   "amount": 28000,
+   "status": "pagado",
+   "method": 2,
+   "ref": "Factura A-5602"
+  },
+  {
+   "day": -30,
+   "concept": "Electricidad bimestral",
+   "category": "Electricidad",
+   "amount": 61000,
+   "status": "pagado",
+   "method": 2,
+   "ref": "Factura B-77412"
+  },
+  {
+   "day": -3,
+   "concept": "Electricidad bimestral (vence próximamente)",
+   "category": "Electricidad",
+   "amount": 64000,
+   "status": "pendiente",
+   "method": null,
+   "ref": "Factura B-80233"
+  },
+  {
+   "day": -20,
+   "concept": "Flete de mercadería",
+   "category": "Transporte",
+   "amount": 15000,
+   "status": "pagado",
+   "method": 1,
+   "ref": ""
+  },
+  {
+   "day": -8,
+   "concept": "Impuestos municipales",
+   "category": "Impuestos",
+   "amount": 52000,
+   "status": "pagado",
+   "method": 2,
+   "ref": "Tasa 08/2026"
+  },
+  {
+   "day": -5,
+   "concept": "Reparación de persiana del local",
+   "category": "Mantenimiento",
+   "amount": 18000,
+   "status": "pagado",
+   "method": 1,
+   "ref": ""
+  },
+  {
+   "day": -1,
+   "concept": "Artículos de limpieza",
+   "category": "Limpieza",
+   "amount": 9000,
+   "status": "pagado",
+   "method": 1,
+   "ref": ""
+  }
+ ],
+ "other_income": [
+  {
+   "day": -10,
+   "concept": "Corte de llaves y servicios varios",
+   "category": "Servicios",
+   "amount": 18500,
+   "method": 1
+  }
+ ]
+}
